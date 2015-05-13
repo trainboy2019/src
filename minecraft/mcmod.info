@@ -1,0 +1,16 @@
+[
+{
+  "modid": “cm”,
+  "name": “§lThe Random Stuff Mod!§k WOOOOOOOO!1!1!1!1!”,
+  "description": "Example placeholder mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [“trainboy2019”],
+  "credits": “iD Tech Camp’s ‘Peppy’ and emagination Computer Camp’s John”,
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
